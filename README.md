@@ -1,0 +1,2 @@
+# ujraterv
+tanulásra
